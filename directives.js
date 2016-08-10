@@ -1,4 +1,4 @@
-// DIRECTIVES 
+// DIRECTIVES
 weatherApp.directive("weatherReport", function() {
    return {
        restrict: 'E',
